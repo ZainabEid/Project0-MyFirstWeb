@@ -7,6 +7,7 @@ Web Programming with Python and JavaScript
     * 1 SASS var
     * 1 SASS nesting
     * 1 SASS inheritance
+    * @media
     * ubdate ReadMe again
 
 //things To-Do 
